@@ -1,4 +1,5 @@
 var status;
 function foo(){
-    return 1;
+    const x = 2;
+    return x;
 }
