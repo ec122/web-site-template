@@ -1,5 +1,6 @@
 var status;
 function foo(){
     const x = 2;
-    return x;
+    console.log("JS function called");
+    console.log(x);
 }
